@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TSDD003_login_data_internal</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>5ca2e15b-4563-4002-817b-913f4332fc78</testSuiteGuid>
+   <testCaseLink>
+      <guid>258492b8-b359-4405-badf-98110d3aaadd</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/scenario/login_succes</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>c1dc7eea-6242-4fbf-abec-71620272ac50</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/test data/test_data_login_internal</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>c1dc7eea-6242-4fbf-abec-71620272ac50</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>69edfaa4-41d0-49f8-8097-fabd0a623f31</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>c1dc7eea-6242-4fbf-abec-71620272ac50</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>9280772b-261f-4451-930d-da7cac15fdbb</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>c1dc7eea-6242-4fbf-abec-71620272ac50</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>check_box</value>
+         <variableId>4a6cbc88-9943-4a1f-bde5-d456d629be76</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

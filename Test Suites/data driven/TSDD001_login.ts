@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TSDD001_login</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>73d13c4b-811b-4898-84a6-e23de78eee3a</testSuiteGuid>
+   <testCaseLink>
+      <guid>e204f874-73d5-4efc-8b01-8e9596805268</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/scenario/login_succes</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>7050b642-74c8-4ff6-8483-3d498bb61a70</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/test data/test_data_login</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>7050b642-74c8-4ff6-8483-3d498bb61a70</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>69edfaa4-41d0-49f8-8097-fabd0a623f31</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7050b642-74c8-4ff6-8483-3d498bb61a70</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>9280772b-261f-4451-930d-da7cac15fdbb</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7050b642-74c8-4ff6-8483-3d498bb61a70</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>check_box</value>
+         <variableId>4a6cbc88-9943-4a1f-bde5-d456d629be76</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
