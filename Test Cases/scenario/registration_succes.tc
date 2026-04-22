@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>registration_succes</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0020b0b0-ed8a-4a71-91d6-81c6ce9408c5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>08d26f7b-7694-4a21-86e1-fba699167329</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>625d150a-af49-487d-9b1f-bb5fe0143bf4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>CustomKeywords.(Utilities.randomInt).(12)</defaultValue>
+      <description></description>
+      <id>08d26f7b-7694-4a21-86e1-fba699167329</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Idj755GnMMdeurhCZ8LbLQ=='</defaultValue>
+      <description></description>
+      <id>625d150a-af49-487d-9b1f-bb5fe0143bf4</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

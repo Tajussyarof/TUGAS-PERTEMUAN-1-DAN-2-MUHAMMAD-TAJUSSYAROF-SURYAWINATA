@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC002_login_failed</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>854bd69b-309c-40a5-8140-491a53b76e7b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7a413728-5278-40c7-960c-17a01ba31af4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>48fc3608-4f2e-4de4-88d4-f43c378bf304</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'dummy1998@gmail..com'</defaultValue>
+      <description></description>
+      <id>7a413728-5278-40c7-960c-17a01ba31af4</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Idj755GnMMdeurhCZ8LbLQ=='</defaultValue>
+      <description></description>
+      <id>48fc3608-4f2e-4de4-88d4-f43c378bf304</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

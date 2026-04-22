@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001_registration_succes</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2656e00a-da4e-48af-9709-d7d2c019d327</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>08d26f7b-7694-4a21-86e1-fba699167329</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>625d150a-af49-487d-9b1f-bb5fe0143bf4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>CustomKeywords.(Utilities.randomInt).(12)</defaultValue>
+      <description></description>
+      <id>08d26f7b-7694-4a21-86e1-fba699167329</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Idj755GnMMdeurhCZ8LbLQ=='</defaultValue>
+      <description></description>
+      <id>625d150a-af49-487d-9b1f-bb5fe0143bf4</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

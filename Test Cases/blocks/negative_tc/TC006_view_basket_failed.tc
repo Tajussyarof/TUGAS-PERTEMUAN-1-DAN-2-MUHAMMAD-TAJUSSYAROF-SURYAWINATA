@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC006_view_basket_failed</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e8601103-7c01-4822-a0e3-484612034ce6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9d6fefde-8d07-4f82-9f6b-e71210918e4c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'testing'</defaultValue>
+      <description></description>
+      <id>9d6fefde-8d07-4f82-9f6b-e71210918e4c</id>
+      <masked>false</masked>
+      <name>kupon</name>
+   </variable>
+</TestCaseEntity>
